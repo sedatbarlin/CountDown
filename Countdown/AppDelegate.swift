@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  Countdown
 //
-//  Created by Afraz Siddiqui on 3/2/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
-//
+//  Created by Sedat Barlin on 3/2/20.
 
 import UIKit
 
