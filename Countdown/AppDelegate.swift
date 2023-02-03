@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Countdown
 //
-//  Created by Sedat Barlin on 3/2/20.
+//  Created by Sedat Barlin on 15.1.2022.
 
 import UIKit
 
