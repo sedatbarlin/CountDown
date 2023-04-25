@@ -1,7 +1,2 @@
 # CountDown
  Count Down App  
-  
- 
- 
-  
-  
